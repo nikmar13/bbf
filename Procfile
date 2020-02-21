@@ -1,1 +1,1 @@
-bot: python BlackBook2.0.py
+worker: python BlackBook2.0.py

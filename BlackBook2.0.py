@@ -2,7 +2,7 @@
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, MessageEntity
 
-TELEGRAM_TOKEN = '854878569:AAFxsphCoXRPxLGRCrUW3x9tA98KXqyK-00'.
+TELEGRAM_TOKEN = '854878569:AAFxsphCoXRPxLGRCrUW3x9tA98KXqyK-00'
 
 bot = telebot.TeleBot('1098940256:AAHDRseehNUEDQ1neeT3E-2b5-6BzxIMZ8A')
 teachers = \
