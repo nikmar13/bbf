@@ -942,28 +942,28 @@ teachers = \
 		{
 		    	"пазіб" : \
                         {
-				"ОБЗ " : \
+				"Основи безпеки зв'язку " : \
                                 
                                     {
                                         "Довбня С.Я." : "https://docs.google.com/forms/d/e/1FAIpQLSdsAc3xtX8UDKTU_B14NSsL9g1c8MqaFPEWbeqB1GrjNqOd5g/viewform"
                                     },
-                                "ПОС " : \
+                                "Приймання та оброблення сигналів " : \
                                 
                                     {
                                         "Дружинін В.А." : "https://docs.google.com/forms/d/e/1FAIpQLSfkGzdbjW9K3zRBWZeAyOxKx9Eu6poDP3Gi5u3Wq0zy0TFBpg/viewform"
                                     },
-                                "ЕКПМД " : \
+                                "Електронні та квантові пристрої мікрохвильового діапазону " : \
                                 
                                     {
                                         "Малышев В.Ю." : "https://docs.google.com/forms/d/e/1FAIpQLSeShpq-Dg3s1YseEqHBFOGHchUwEqv6XnXSYEY8m_Jh1Vwz_w/viewform",
                                         "Прокопенко О.В." : "https://docs.google.com/forms/d/e/1FAIpQLSfpnV-TnY0M-Vzaloz615-MUd3NYZjxqxmNlNWavh-gqRyDhQ/viewform"
                                     },
-                                "СР " : \
+                                "Статистична радіотехніка " : \
                                 
                                     {
                                         "Обуховський В.В." : "https://docs.google.com/forms/d/e/1FAIpQLSe_K6HGzoaJ2WyFWVmqzNxGUKBWNeXVf2buDKfDJ3ifp6piXg/viewform"
                                     },
-                                "КТРЗ " : \
+                                "Конструювання та технології радіоелектронних засобів " : \
                                 
                                     {
                                         "Смирнов Є.М." : "https://docs.google.com/forms/d/e/1FAIpQLSdQPcdosz2GHMZMXk_VBh97XkA-ECqok6cjRGXKohoR5Roz9A/viewform"
@@ -973,7 +973,7 @@ teachers = \
                                     {
                                         "Рєзнікова Н.В." : "https://docs.google.com/forms/d/e/1FAIpQLSc42vlpHorYqbzx0e_CpT7mSG4KXTAS-Q_SVi6JPISmdfmF9g/viewform"
                                     },
-                                "АСТМД " : \
+                                "Антенні системи та техніка мікрохвильового діапазону " : \
                                 
                                     {
                                         "Слюсаренко І.І." : "https://docs.google.com/forms/d/e/1FAIpQLSdlAk1NJ-ggAGpnIt7UpnExB069ef-EckqlrOu8qQg4yRAF4g/viewform"
