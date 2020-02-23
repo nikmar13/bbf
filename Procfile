@@ -1,1 +1,1 @@
-worker: python BlackBook2.0.py
+web: gunicorn BlackBook2.0:server
